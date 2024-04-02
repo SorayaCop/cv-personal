@@ -12,7 +12,7 @@ Site de portfólio totalmente responsivo, para todos os dispositivos, usando HTM
 
 ### Screeshots
 
-![Personal Desktop Demo](./readme-image/desktop-demo.jpg "Desktop Demo")
+![Personal Desktop Demo](./readme-images/desktop-demo.jpg "Desktop Demo")
 
 ### Licença
 
