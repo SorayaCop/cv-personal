@@ -4,7 +4,7 @@
 
 Site de portfólio totalmente responsivo, para todos os dispositivos, usando HTML, CSS e JavaScript.
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://sorayacop.github.io/cv-personal/"><strong>➥ Live Demo</strong></a>
 
  </div>
 
